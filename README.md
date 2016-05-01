@@ -1,2 +1,3 @@
 # MYSCC
 compile
+test
